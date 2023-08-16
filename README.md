@@ -23,7 +23,3 @@ Have you ever been to a loud party or in a noisy environment which makes it diff
 </ul>
 
 
-Here is a demo of the Gesture Detection in action.
-
-https://user-images.githubusercontent.com/44596318/160474527-a880011c-5019-4d7e-b64c-b53cf7414c06.mp4
-
